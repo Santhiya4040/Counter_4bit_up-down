@@ -1,4 +1,4 @@
-## EXP-2 Counter_4bit_up-down
+# EXP-2 Counter_4bit_up-down
 
 ## Aim:
 
@@ -59,8 +59,9 @@ Functional Simulation:
 */Program  for  4-Bit Up-Down Counter
 
 	Use Save option or Ctrl+S to save the code or click on the save option from the top most right corner and close the text file.
-![Screenshot 2024-10-03 163749](https://github.com/user-attachments/assets/c72ab652-05cd-4f66-99ba-434834e2be9f)
 
+
+![p2](https://github.com/user-attachments/assets/c1357c4d-093f-475f-86cc-7cca7a10e742)
 
 ## Creating Test bench:
 
@@ -82,8 +83,9 @@ It will invoke the nclaunch window for functional simulation we can compile,elab
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure
 
 Click the cds.lib file and save the file by clicking on Save option
-![Screenshot 2024-10-04 160147](https://github.com/user-attachments/assets/0b7df53a-5e16-45c5-b2a8-df39ac285f37)
 
+
+![373608146-0b7df53a-5e16-45c5-b2a8-df39ac285f37](https://github.com/user-attachments/assets/f7b8b613-978b-4c06-a495-39fc20812b1c)
 
 
 ## Fig 4: cds.lib file Creation
@@ -93,7 +95,9 @@ Click the cds.lib file and save the file by clicking on Save option
 	Select “Don’t include any libraries (verilog design)” from “New cds.lib file” and click on “OK” as in below figure
 
 	We are simulating verilog design without using any libraries
-![Screenshot 2024-10-03 163824](https://github.com/user-attachments/assets/d2c16cdd-bd0b-451a-8630-79b2aadf3ec6)
+
+![386822309-df305bab-30c9-45a1-a8f5-8750149d01ce](https://github.com/user-attachments/assets/f6b9a899-cee0-4c43-a528-80f1d87bc111)
+
 
 
 ## Fig 5: Selection of Don’t include any libraries
@@ -105,13 +109,15 @@ Click the cds.lib file and save the file by clicking on Save option
 	Left side you can see the HDL files. Right side of the window has worklib and snapshots directories listed.
 
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
-![image](https://github.com/user-attachments/assets/65d4db5f-46ab-4036-9980-45707124b914)
+     ![373848605-29efc733-efb9-4c52-acf3-6518d4ab0390 (1)](https://github.com/user-attachments/assets/f751c07c-aaf3-46d9-a3b0-fa9dee569c08)
 
 
 ## Fig 6: Nclaunch Window
 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation.
-![Screenshot 2024-10-03 150511](https://github.com/user-attachments/assets/17bd6d07-be58-4c48-94f0-6d3975a553e4)
+
+
+![373681850-8ab3ba52-18cf-4256-aa25-dbbe97336043](https://github.com/user-attachments/assets/2d5b7bbd-4403-4259-bc3c-592c726b1c7c)
 
 
 ## Step 1: Compilation:– Process to check the correct Verilog language syntax and usage 
